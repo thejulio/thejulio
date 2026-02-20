@@ -4,5 +4,10 @@
 thejulio/thejulio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Undergraduate at James Madison University currently studying Integrated Science and Technology with a concentration in Applied Computing.
-Learning to keep improving coding skill mostly Python, interest in Machine Learning, Data Science, networking and enjoying to learn more in these fields and more.
+Hello Welcome! 
+I am an Alumni from James Madison University with B.S. in Integrated Science and Technology (ISAT) focused on data analysis, applied data science, data-driven, optimization, and automation.
+
+Featured Projects:
+- Garbage Classification Model
+- Hydrogen Storage Model
+- CAPSTONE
